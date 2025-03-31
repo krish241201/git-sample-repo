@@ -8,3 +8,15 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+*******************************************************************************************
+
+scenario 1:
+First release -> done
+Second release
+	2 features
+	2 people
+Third release
+	1 feature
+	1 person
