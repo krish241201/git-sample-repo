@@ -9,9 +9,7 @@ git commit -m ""
 git log
 Git diff <filename>
 
-
-*******************************************************************************************
-
+***********************************************************************************************************
 scenario 1:
 First release -> done
 Second release
@@ -20,3 +18,11 @@ Second release
 Third release
 	1 feature
 	1 person
+
+		privatebranch1------------------
+		|
+---------------master---------release---------master---------master-----------release----------master-----
+		|
+		|
+		privatebranch2--------------------------------------------------pull then merge
+
